@@ -1,0 +1,434 @@
+{
+  "version": 4,
+  "updatedAt": 1794754229757,
+  "materials": [],
+  "materialPages": {
+    "listening": [
+      {
+        "id": "listening-skill1",
+        "label": "Listening Skill 1",
+        "file": "",
+        "color": "#16866b",
+        "bullet": "number",
+        "desc": "",
+        "descFmt": "plain"
+      }
+    ],
+    "swo": [
+      {
+        "id": "p-mwgkrnyuzdrar",
+        "label": "Skill 1: Subject & Verb",
+        "file": "materiswoskill1.html",
+        "color": "#3979ce",
+        "bullet": "dot",
+        "desc": "Menerangkan variasi Subject, Verb, beserta kesesuaian keduanya.",
+        "descFmt": "plain"
+      },
+      {
+        "id": "p-mwgkyq1vlackj",
+        "label": "Skill 2: Preposition",
+        "file": "materiswoskill2.html",
+        "color": "#3979ce",
+        "bullet": "dot",
+        "desc": "Menerangkan fungsi Preposisi serta posisi dalam kalimat.",
+        "descFmt": "plain"
+      },
+      {
+        "id": "p-mwgl0r8wiyz8z",
+        "label": "Skill 3 : Appositive",
+        "file": "materiswoskill3.html",
+        "color": "#3979ce",
+        "bullet": "dot",
+        "desc": "Menerangkan fungsi Appositive beserta variasinya.",
+        "descFmt": "plain"
+      },
+      {
+        "id": "p-mwgl3469krw6q",
+        "label": "Skill 4 & 5 : Participle",
+        "file": "materiswoskill45.html",
+        "color": "#3979ce",
+        "bullet": "dot",
+        "desc": "Bentuk Participle, fungsinya, serta perbedaan dengan Gerund",
+        "descFmt": "plain"
+      }
+    ],
+    "reading": [
+      {
+        "id": "reading-skill1",
+        "label": "Reading Skill 1",
+        "file": "",
+        "color": "#7952b5",
+        "bullet": "number",
+        "desc": "",
+        "descFmt": "plain"
+      }
+    ]
+  },
+  "practice": {
+    "listening-skill1": {
+      "passage": "",
+      "audioUrl": "",
+      "audioScript": "Woman: Have you finished the report for Professor Allen? Man: Almost. I still need to check the figures in the final section. Woman: The professor said he would like to receive it before noon tomorrow. Man: That should be fine. I will review it tonight and send it first thing in the morning. Woman: Great. Let me know if you need me to check anything.",
+      "minutes": 10,
+      "questions": [
+        {
+          "id": "q-mwgg5n15isf3s",
+          "q": "What are the speakers mainly discussing?",
+          "o": [
+            "A class schedule",
+            "A report that needs to be completed",
+            "A meeting with Professor Allen",
+            "A change in research topic"
+          ],
+          "a": 1,
+          "e": "They discuss checking the figures and submitting the report before the deadline.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n15j9k4v",
+          "q": "What does the man still need to do?",
+          "o": [
+            "Write the introduction",
+            "Meet the professor",
+            "Check the figures",
+            "Print the report"
+          ],
+          "a": 2,
+          "e": "He says he still needs to check the figures in the final section.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n15tott2",
+          "q": "When does the professor want to receive the report?",
+          "o": [
+            "Tonight",
+            "Tomorrow before noon",
+            "Tomorrow evening",
+            "Next week"
+          ],
+          "a": 1,
+          "e": "The woman says the professor wants it before noon tomorrow.",
+          "topic": "",
+          "ctx": ""
+        }
+      ]
+    },
+    "p-mwgkrnyuzdrar": {
+      "passage": "",
+      "audioUrl": "",
+      "audioScript": "",
+      "minutes": 10,
+      "questions": [
+        {
+          "id": "q-mwgg5n15otgyl",
+          "q": "The committee _____ the final decision yesterday.",
+          "o": [
+            "make",
+            "makes",
+            "made",
+            "making"
+          ],
+          "a": 2,
+          "e": "The time expression 'yesterday' requires the simple past: made.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n150pbbz",
+          "q": "The new library, _____ last year, is already popular with students.",
+          "o": [
+            "complete",
+            "completed",
+            "was completing",
+            "which completing"
+          ],
+          "a": 1,
+          "e": "The past participle 'completed' works as a reduced passive adjective clause.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n15faz19",
+          "q": "Neither the students nor the teacher _____ aware of the schedule change.",
+          "o": [
+            "were",
+            "are",
+            "have",
+            "was"
+          ],
+          "a": 3,
+          "e": "With neither...nor, the verb agrees with the nearer subject. 'Teacher' is singular, so use was.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n15rqsqs",
+          "q": "The researcher collected the data carefully, _____ the results were reliable.",
+          "o": [
+            "because",
+            "so",
+            "although",
+            "unless"
+          ],
+          "a": 1,
+          "e": "'So' introduces the result: careful collection led to reliable results.",
+          "topic": "",
+          "ctx": ""
+        }
+      ]
+    },
+    "reading-skill1": {
+      "passage": "<p>Urban trees provide benefits that extend beyond their appearance. Their leaves can provide shade, reducing the amount of heat absorbed by streets and buildings. Trees also help manage rainwater: some water is intercepted by leaves, while roots can improve the soil's ability to absorb rainfall. In addition, urban vegetation creates habitats for birds and insects. However, planting trees in cities requires careful planning. Species must be selected according to local climate, available space, and maintenance needs. A tree that grows well in a park may not be suitable for a narrow sidewalk where roots could damage pavement or underground pipes. Therefore, successful urban forestry depends not simply on planting more trees, but on choosing appropriate species and caring for them over time.</p>",
+      "audioUrl": "",
+      "audioScript": "",
+      "minutes": 10,
+      "questions": [
+        {
+          "id": "q-mwgg5n15dwm2e",
+          "q": "What is the main idea of the passage?",
+          "o": [
+            "Why cities should remove old trees",
+            "The benefits of urban trees and the need for careful planning",
+            "How birds migrate through cities",
+            "Why all tree species grow well on sidewalks"
+          ],
+          "a": 1,
+          "e": "The passage describes several benefits and explains why tree selection and maintenance matter.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n15rjjpi",
+          "q": "According to the passage, how can trees help manage rainwater?",
+          "o": [
+            "By preventing all rainfall",
+            "By making streets wider",
+            "By intercepting water and improving soil absorption",
+            "By directing water into buildings"
+          ],
+          "a": 2,
+          "e": "The passage states that leaves intercept some water and roots can improve soil absorption.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n15p3g8n",
+          "q": "The word 'intercepted' is closest in meaning to _____.",
+          "o": [
+            "collected or caught",
+            "heated",
+            "destroyed",
+            "measured"
+          ],
+          "a": 0,
+          "e": "In context, leaves catch or hold some of the rainwater.",
+          "topic": "",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwgg5n1536fmm",
+          "q": "Why might a tree be unsuitable for a narrow sidewalk?",
+          "o": [
+            "It may attract too many birds",
+            "Its roots may damage pavement or pipes",
+            "It cannot receive sunlight",
+            "It may stop all traffic"
+          ],
+          "a": 1,
+          "e": "The passage specifically mentions possible damage from roots.",
+          "topic": "",
+          "ctx": ""
+        }
+      ]
+    }
+  },
+  "pretest": {
+    "easy": {
+      "minutes": 15,
+      "questions": [
+        {
+          "id": "q-mwhya0kbvdmh0",
+          "q": "She _____ to school every day.",
+          "o": [
+            "go",
+            "goes",
+            "going",
+            "gone"
+          ],
+          "a": 1,
+          "e": "With a third-person singular subject in the simple present, add -s: goes.",
+          "topic": "Present simple",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwhya0kbxxozg",
+          "q": "There are _____ books on the table.",
+          "o": [
+            "much",
+            "a lot",
+            "many",
+            "a little"
+          ],
+          "a": 2,
+          "e": "'Books' is countable, so use 'many'.",
+          "topic": "Quantifiers",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwhya0kb1kerf",
+          "q": "My brother is taller _____ me.",
+          "o": [
+            "that",
+            "than",
+            "then",
+            "as"
+          ],
+          "a": 1,
+          "e": "Comparatives use 'than'.",
+          "topic": "Comparison",
+          "ctx": ""
+        }
+      ]
+    },
+    "medium": {
+      "minutes": 20,
+      "questions": [
+        {
+          "id": "q-mwhya0kbfu7f6",
+          "q": "The report _____ by the committee before the deadline.",
+          "o": [
+            "was submitted",
+            "submitted",
+            "has submit",
+            "submitting"
+          ],
+          "a": 0,
+          "e": "The report receives the action, so use the passive: was submitted.",
+          "topic": "Passive voice",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwhya0kbhfmad",
+          "q": "Not only _____ the exam, but she also received a scholarship.",
+          "o": [
+            "she passed",
+            "did she pass",
+            "she did pass",
+            "passed she"
+          ],
+          "a": 1,
+          "e": "After 'Not only' at the start of a clause, the auxiliary comes before the subject.",
+          "topic": "Inversion",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwhya0kbkhumx",
+          "q": "The professor, along with his students, _____ attending the conference.",
+          "o": [
+            "are",
+            "were",
+            "is",
+            "be"
+          ],
+          "a": 2,
+          "e": "The subject is 'professor' (singular); 'along with ...' does not change the verb.",
+          "topic": "Subject-Verb Agreement",
+          "ctx": ""
+        }
+      ]
+    },
+    "hard": {
+      "minutes": 25,
+      "questions": [
+        {
+          "id": "q-mwhya0kbzgx29",
+          "q": "Had the committee reviewed the proposal earlier, the errors _____ avoided.",
+          "o": [
+            "would be",
+            "would have been",
+            "will have been",
+            "had been"
+          ],
+          "a": 1,
+          "e": "A third conditional (inverted) needs 'would have + past participle' in the result clause.",
+          "topic": "Conditionals",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwhya0kbecbgt",
+          "q": "The more carefully you read, _____ you will understand.",
+          "o": [
+            "the better",
+            "better",
+            "the best",
+            "more better"
+          ],
+          "a": 0,
+          "e": "The double comparative structure is 'the more..., the better...'.",
+          "topic": "Comparative structures",
+          "ctx": ""
+        },
+        {
+          "id": "q-mwhya0kb9btbi",
+          "q": "Rarely _____ such a remarkable performance.",
+          "o": [
+            "we have seen",
+            "have we seen",
+            "we saw",
+            "seen we"
+          ],
+          "a": 1,
+          "e": "A negative adverb at the start of a sentence triggers subject–auxiliary inversion.",
+          "topic": "Inversion",
+          "ctx": ""
+        }
+      ]
+    }
+  },
+  "links": {
+    "routine": []
+  },
+  "skillPages": [
+    {
+      "label": "Skill 1: Subject & Verb",
+      "file": "materiswoskill1.html"
+    },
+    {
+      "label": "Skill 2: Preposition",
+      "file": "materiswoskill2.html"
+    },
+    {
+      "label": "Skill 3 : Appositive",
+      "file": "materiswoskill3.html"
+    },
+    {
+      "label": "Skill 4 & 5 : Participle",
+      "file": "materiswoskill45.html"
+    }
+  ],
+  "skills": {},
+  "accounts": [
+    {
+      "user": "admin",
+      "name": "Administrator",
+      "role": "admin",
+      "hash": "5d2da627c4d2bf1ce45267500ab103da835698f270c08c3e7dce5c111b7eedd5",
+      "createdAt": 0
+    },
+    {
+      "user": "far24",
+      "name": "Faqih Adnan Arrasyid",
+      "role": "student",
+      "hash": "3b82be4d335bb8fcab477d8eef635091bf29970bd3e4909989b3b3d91fd63c9c",
+      "createdAt": 1794754229756
+    }
+  ],
+  "settings": {
+    "requireLogin": true,
+    "inactiveDays": 2,
+    "periodWeeks": 4,
+    "passScore": 70
+  }
+}
